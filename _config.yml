@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Xiang Zhou"
 title_separator          : "-"
 name                     : &name "Xiang Zhou"
-description              : &description "personal description 6789"
+description              : &description "personal description 6789test"
 url                      : https://zhouxiangni.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhouxiangni/zhouxiangni.github.io"
@@ -42,12 +42,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  #github           : ""
+  github           : # ""
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
