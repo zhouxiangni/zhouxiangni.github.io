@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Xiang Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Moon"
+  bio              : "Associate Professor, School of Data Science and Department of Math"
+  location         : "Hong Kong"
   employer         : "City University of Hong Kong"
   uri              : # URL
   email            : "xizhou@cityu.edu.hk" 
